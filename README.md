@@ -10,7 +10,6 @@
 >  *<center>"Nunca estamos à frente o suficiente, mas também temos todo o potencial de nunca ficarmos para trás"</center>*
 
 
-![](https://icons8.com/icon/13441/python)
 <!--
 **Robson-afk/Robson-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
