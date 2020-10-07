@@ -6,9 +6,7 @@
 [
 ![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/robinho_e_ana/)
 ](https://www.instagram.com/robinho_e_ana/)
-&nbsp
 
-&nbsp
 >  *<center>"Nunca estamos à frente o suficiente, mas também temos todo o potencial de nunca ficarmos para trás"</center>*
 
 <!--
