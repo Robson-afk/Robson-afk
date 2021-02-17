@@ -1,6 +1,6 @@
 
 # Robson Widnef 👋
-### Front-end Developer | Javascript Vanilla | Estudante [Trybe](https://www.betrybe.com/)
+### Front-end Web Development | Vanilla.JS | Estudante [Trybe](https://www.betrybe.com/)
 [
 ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/frontend-robsonwidnef/)](https://www.linkedin.com/in/frontend-robsonwidnef/)
 [
